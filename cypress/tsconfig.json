@@ -1,0 +1,15 @@
+
+//Akilli kod destegi icin bu kodu cypress seviyesinde file olusturup icine koydduk
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "baseUrl": "../node_modules",
+        "noEmit": true,
+        "types": [
+            "cypress"
+        ]
+    },
+    "include": [
+        "**/*.*"
+    ]
+}
